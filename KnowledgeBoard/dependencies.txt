@@ -1,0 +1,3 @@
+-- GPU install --
+bash: nvidia-smi -- checks the available nvidia GPU
+Bash: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126             (ending is the cuda version available)
